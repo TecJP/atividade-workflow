@@ -1,0 +1,35 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Certificação bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TecJP/atividade-workflow.git"
+  },
+  "keywords": [
+    "Certificacao",
+    "Bootstrap",
+    "gulp",
+    "bower",
+    "sass",
+    "npm",
+    "javascript",
+    "framework"
+  ],
+  "author": "João Pedro de Deus Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TecJP/atividade-workflow/issues"
+  },
+  "homepage": "https://github.com/TecJP/atividade-workflow#readme",
+  "dependencies": {
+    "bower": "^1.8.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

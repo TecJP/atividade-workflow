@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap",
+  "description": "Certificação bootstrap",
+  "main": "index.js",
+  "authors": [
+    "João Pedro de Deus Freitas"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Certificacao",
+    "Bootstrap",
+    "gulp",
+    "bower",
+    "sass",
+    "npm",
+    "javascript",
+    "framework"
+  ],
+  "homepage": "https://github.com/TecJP/atividade-workflow",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
